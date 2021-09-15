@@ -3,7 +3,7 @@ package study.core.member;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import study.core.discount.AppConfig;
+import study.core.AppConfig;
 
 import static org.assertj.core.api.Assertions.*;
 

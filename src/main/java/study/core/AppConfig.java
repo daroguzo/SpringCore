@@ -1,5 +1,6 @@
-package study.core.discount;
+package study.core;
 
+import study.core.discount.FixDiscountPolicy;
 import study.core.member.MemberService;
 import study.core.member.MemberServiceImpl;
 import study.core.member.MemoryMemberRepository;

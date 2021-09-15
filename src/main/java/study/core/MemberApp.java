@@ -1,6 +1,5 @@
 package study.core;
 
-import study.core.discount.AppConfig;
 import study.core.member.Grade;
 import study.core.member.Member;
 import study.core.member.MemberService;
